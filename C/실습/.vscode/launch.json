@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/jaeyoonkim/Desktop/KUality Project/C/실습",
-      "program": "/Users/jaeyoonkim/Desktop/KUality Project/C/실습/build/Debug/outDebug"
+      "cwd": "/Users/jaeyoonkim/Desktop/KUality_Projects/C/실습/04.11",
+      "program": "/Users/jaeyoonkim/Desktop/KUality_Projects/C/실습/04.11/build/Debug/outDebug"
     }
   ]
 }
